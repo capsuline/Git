@@ -1,0 +1,12 @@
+First Usage:
+------------
+Create username and email
+git config --global user.name "<username>"
+git config --global user.email "<email>"
+
+
+
+Generating SSH Keys
+-----------------
+link: https://help.github.com/articles/generating-ssh-keys
+
